@@ -1,0 +1,133 @@
+      ul {
+        height: 500px;
+        width: 500px;
+        margin: 0 auto;
+      }
+
+      li {
+        display: inline-block;
+        list-style:none;
+        width:  30%;
+        height: 30%;
+        background-color: brown;
+        margin: 1px;cc
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RAF_roundel.svg/2000px-RAF_roundel.svg.png");
+        background-image-size: 150px 150px;
+        border-radius: 20px;
+      }
+
+    h1 {
+      font-family: "Courier New", Courier, monospace;
+      text-align: center;
+      color: black;
+      font-size: 50px;
+      font: bold;
+      padding: 15px;
+      border-radius: 25px;
+
+    }
+
+    .squares {
+      background-repeat: no-repeat;
+    }
+
+    body {
+      background-image: url("http://www.bestmoviesbyfarr.com/static-assets/images/articles/background/2014/10/2-1b0613t.jpg");
+      background-size: cover;
+    }
+    .wrapper {
+        text-align: center;
+    }
+
+    button {
+      background-color: red;
+      bottom-top: none;
+      border-bottom-left-radius: none;
+      border-radius: 10px;
+
+    }
+    h2{
+      text-align: center;
+      color: black;
+      font-family: "Courier New", Courier, monospace;
+    }
+
+    div {
+      background-image: url("http://backgroundidea.info/wp-content/uploads/2015/03/light-pink-polka-dot-background-tumblr-wallpapers-for-bright-pink-polka-dot-background-pic.jpg");
+      background: rgba(255,255,255,.6);
+      text-align: center;
+
+    }
+
+    #one {
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #two {
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #three {
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #four {
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #five {
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #six{
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #seven {
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #eight{
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
+    #nine{
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      border: solid;
+      border-radius: 20px;
+    }
